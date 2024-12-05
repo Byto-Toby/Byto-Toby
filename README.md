@@ -8,10 +8,10 @@ I am also a student at [42 | Rio](https://42.rio/), a Software Engineering schoo
 
 * 🌍  I'm based in Salvador, Brazil
 * ✉️  You can contact me at [francisplj080@gmail.com](mailto:francisplj080@gmail.com)
-* 🚀  I'm currently freelancing for companies as a Full Stack Software Developer
-* 🧠 I'm learning low-level programming, functional programming, and scalable, resilient application architecture.
+* 🚀  I'm currently learning at all and freelancing for companies as a Developer
+* 🧠 I'm learning low-level programming, pythjon, java, HTML/CSS, game development, game desing.
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-* ⚡  I love sports and my favorite is Crossfit
+* ⚡  I love games above all indie games
 
 #### Skills
 
