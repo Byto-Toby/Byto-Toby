@@ -16,9 +16,9 @@ I am also a student at [Alura](https://www.alura.com.br).
 #### Skills
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="32" alt="javascript logo"  /> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="32" alt="typescript logo" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="32" alt="typescript logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)" height="32" alt="javascript logo"  /> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="32" alt="HTML5 logo" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="32" alt="Python logo"  />
 </div>
 
 #### Socials
