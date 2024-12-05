@@ -1,10 +1,10 @@
-## Hi 👋 My name is Guilhermo
+## Hi 👋 My name is Francis
 
-#### Full Stack Software Developer
+#### Developer
 
-I'm a 21-year-old developer, hacking since I was 16. I love to code and solve deep problems using cutting-edge tech. My main focus is on front- and back-end development, creating applications that impact thousands of users.
+I'm a 17-year-old developer, hacking since I was 16. I love to code and solve problems with creative solutions. My main focus is on front-end development, creating applications/games that impact thousands of users.
 
-I am also a student at [42 | Rio](https://42.rio/), a Software Engineering school with [54 campus in 31 countries](https://www.42network.org/42-schools/).
+I am also a student at [Alura](https://www.alura.com.br).
 
 * 🌍  I'm based in Salvador, Brazil
 * ✉️  You can contact me at [francisplj080@gmail.com](mailto:francisplj080@gmail.com)
