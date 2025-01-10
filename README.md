@@ -11,7 +11,7 @@ I am also a student at [Alura](https://www.alura.com.br).
 * 🚀  I'm currently learning at all and freelancing for companies as a Developer
 * 🧠 I'm learning low-level programming, pythjon, java, HTML/CSS, game development, game desing.
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-* ⚡  I love games above all indie games
+* ⚡  I love games, above all indie games
 
 #### Skills
 
