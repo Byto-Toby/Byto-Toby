@@ -2,7 +2,7 @@
 
 #### Developer
 
-I'm a 17-year-old developer, hacking since I was 16. I love to code and solve problems with creative solutions. My main focus is on front-end development, creating applications/games that impact thousands of users.
+I'm a 18-year-old developer, hacking since I was 16. I love to code and solve problems with creative solutions. My main focus is on front-end development, creating applications/games that impact thousands of users.
 
 I am also a student at [Alura](https://www.alura.com.br).
 
